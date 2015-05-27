@@ -42,6 +42,6 @@
     ]
   },
   "dependencies": {
-    "page": "^1.5.0"
+    "page": "https://github.com/FlorentBiffi/page.js/tarball/master"
   }
 }
